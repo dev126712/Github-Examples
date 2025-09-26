@@ -1,6 +1,6 @@
 name: Greetings-test
 
-on: [pull_request_target, issues]
+on: [pull_request_target, issues, pull_request]
 
 jobs:
   greeting:
